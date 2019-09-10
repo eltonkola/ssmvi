@@ -2,7 +2,7 @@ package com.eltonkola.mvitodolist.ui
 
 import com.eltonkola.mvitodolist.data.NoteRepo
 import com.eltonkola.mvitodolist.data.model.NoteItem
-import com.eltonkola.ssmvi.BaseViewModel.BaseViewModel
+import com.eltonkola.ssmvi.BaseViewModel
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 

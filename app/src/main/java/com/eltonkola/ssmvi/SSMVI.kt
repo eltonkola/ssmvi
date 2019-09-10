@@ -1,4 +1,4 @@
-package com.eltonkola.ssmvi.BaseViewModel
+package com.eltonkola.ssmvi
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
